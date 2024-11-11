@@ -1,6 +1,6 @@
 # E3-G14-Wiki
 
-**Video:** https://youtu.be/3EB71Ndc5Jw
+**Video:** https://youtu.be/0o4pzwCkmok
 
 **Postman:** https://documenter.getpostman.com/view/25498232/2sAXxTcAiq
 
