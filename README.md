@@ -4,6 +4,6 @@
 
 **Postman:** https://documenter.getpostman.com/view/25498232/2sAXxTcAiq
 
-**Arquitectura de la aplicación:**
+**Arquitectura de la aplicación:** [E3-G14-Arquitectura.pdf](https://github.com/user-attachments/files/17695920/E3-G14-Arquitectura.pdf)
 
-**Plan de Pruebas y Análisis de capacidad:**
+**Plan de Pruebas y Análisis de capacidad:** 
