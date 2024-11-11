@@ -6,5 +6,6 @@
 
 **Arquitectura de la aplicación:** [E3-G14-Arquitectura.pdf](https://github.com/user-attachments/files/17695920/E3-G14-Arquitectura.pdf)
 
-**Plan de Pruebas y Análisis de capacidad:** [E3-G14-Análisis de capacidad.pdf](https://github.com/user-attachments/files/17697398/E3-G14-Analisis.de.capacidad.pdf)
+**Plan de Pruebas y Análisis de capacidad:** [E3-G14-Análisis de capacidad.pdf](https://github.com/user-attachments/files/17697692/E3-G14-Analisis.de.capacidad.pdf)
+
 
